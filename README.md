@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hhong0326
 - 👀 I’m interested in webRTC, AR, blockchain, etc..
 - 🌱 I’m currently learning Go Programming Language
-- 💞️ I’m looking to collaborate on ...
+// - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
       Email: hhong0326@naver.com
 
