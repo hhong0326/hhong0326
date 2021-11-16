@@ -1,6 +1,6 @@
 - 👋  Hi, I’m Sunil Hong.
-- 👀  I’m interested in webRTC, AR, blockchain, etc..
-- 🌱  I’m currently learning Go Programming Language..
+<!-- - 👀  I’m interested in webRTC, AR, blockchain, etc.. -->
+<!-- - 🌱  I’m currently learning Go Programming Language.. -->
 <!-- - 💞️  I’m looking to collaborate on ... -->
 <!-- - 📄  Resume : https://hhong0326.github.io -->
 - 📫 How to reach me : hhong0326@naver.com
