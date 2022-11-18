@@ -3,7 +3,7 @@
 <!-- - 🌱  I’m currently learning Go Programming Language.. -->
 <!-- - 💞️  I’m looking to collaborate on ... -->
 <!-- - 📄  Resume : https://hhong0326.github.io -->
-- 📫 How to reach me : hhong0326@naver.com
+- 📫 How to reach me : hh.ng0326@gmail.com
 
 
 <!---
